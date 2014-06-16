@@ -1,0 +1,5 @@
+This Directory contains a mini inventory application built with 
+AngularJs and Jasmine used to demonstrate Test driven development.
+follow the steps below to see my results
+1.Run the inventoryApp.html to see the application.
+2.Run the inventoryAppTestRunner.html to see the unit tests results.

@@ -1,0 +1,15 @@
+<html ng-app="inventory">
+<head>
+
+</head>
+<body>
+<h1>Inventories</h1>
+<div ng-view >
+  
+</div>
+<script src="angular.js"></script>
+<script src="angular-route.js"></script>
+<script src="controllers.js"></script>
+</body>
+</html>
+
